@@ -17,7 +17,7 @@ setInterval(()=>{
 const btn = document.getElementById("btn");
 const Message = document.getElementById("Message");
 
-const msg  = "I love you 😘Abu anas💕";
+const msg  = "I love you 😘Sobuj💕";
 btn.addEventListener("click", (e) =>{
     Message .textContent = msg;
 });
